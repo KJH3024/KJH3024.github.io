@@ -1,0 +1,1 @@
+Sitemap: https://kjh3024.github.io/jekyll-theme-yat/sitemap.xml
